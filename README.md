@@ -19,7 +19,7 @@ Generator creates a large 'sphere' that starts generating from the initial dista
 - Follow the instructions and you're good to go!
 - Example of the program launching:
 ```
-Welcome to the Galaxy Catalog Generator by abebuss!
+Welcome to the Galaxy Catalog Generator by kanisall!
 
 Please follow the prompts to set everything up.
 Enter the name for your catalog (e.g., SEvDSOG): SEvDSOG
