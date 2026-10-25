@@ -1,5 +1,8 @@
 # Galaxy Catalog Generator
 
+https://steamcommunity.com/workshop/filedetails/?id=3360147278  
+https://steamcommunity.com/sharedfiles/filedetails/?id=3412919563
+
 ## Description
 The Galaxy Catalog Generator is a console application that allows users to generate a catalog of galaxies in CSV format. This program is designed for use with SpaceEngine to create large galaxy catalogs.
 Generator creates a large 'sphere' that starts generating from the initial distance, stated by the user until all galaxies will be generated.
