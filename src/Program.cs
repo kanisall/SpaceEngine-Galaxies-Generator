@@ -63,7 +63,7 @@ public class Init
     static void Main(string[] args)
     {
         Console.ForegroundColor = ConsoleColor.Cyan;
-        Console.WriteLine("Welcome to the Galaxy Catalog Generator by abebuss!");
+        Console.WriteLine("Welcome to the Galaxy Catalog Generator by kanisall!");
         Console.ResetColor();
 
         Console.WriteLine("\nPlease follow the prompts to set everything up.");
