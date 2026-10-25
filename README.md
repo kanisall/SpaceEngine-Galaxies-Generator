@@ -1,5 +1,6 @@
 # Galaxy Catalog Generator
 
+## My modifications:
 https://steamcommunity.com/workshop/filedetails/?id=3360147278  
 https://steamcommunity.com/sharedfiles/filedetails/?id=3412919563
 
